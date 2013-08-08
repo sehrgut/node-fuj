@@ -16,5 +16,8 @@
   "author": "Keith Beckman <kbeckman@becknet.com>",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "e17d3237b0cce8306e61732aef2cd74a1b39f835"
+  "gitHead": "e17d3237b0cce8306e61732aef2cd74a1b39f835",
+  "dependencies": {
+    "lodash": "1.3.x"
+  }
 }
