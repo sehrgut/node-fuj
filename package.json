@@ -1,0 +1,20 @@
+{
+  "name": "fuj",
+  "version": "0.0.1",
+  "description": "yet another hodgepodge utility library for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sehrgut/node-fuj.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "Keith Beckman <kbeckman@becknet.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e17d3237b0cce8306e61732aef2cd74a1b39f835"
+}
