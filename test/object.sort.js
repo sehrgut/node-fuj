@@ -7,4 +7,4 @@ var o = {
 	b: true
 };
 
-console.log(fuj.dump(fuj.osort(o)));
+console.log(fuj.object.dump(fuj.object.sort(o)));
